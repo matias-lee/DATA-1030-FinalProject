@@ -1,0 +1,8 @@
+name: pancreatic-cancer-prediction
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+  - anaconda
+prefix: /opt/anaconda3/envs/pancreatic-cancer-prediction
